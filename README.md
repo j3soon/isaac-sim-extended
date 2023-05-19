@@ -1,5 +1,7 @@
 # ISAAC Sim Extended
 
+> This repo will not be further updated, please refer to <https://github.com/j3soon/isaac-extended> instead.
+
 Provide some Isaac Sim examples and notes not included in the toolkit.
 
 Isaac Sim documentation: https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/overview.html
